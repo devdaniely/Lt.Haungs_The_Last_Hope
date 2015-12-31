@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Robot()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Robot\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ eat()
+comment3.params=
+comment3.target=void\ selfDestruct()
+comment4.params=bottom
+comment4.target=void\ setBottom(int)
+comment5.params=top
+comment5.target=void\ setTop(int)
+numComments=6
