@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.params=color
-comment0.target=Portal(java.awt.Color)
-comment1.params=portal
-comment1.target=void\ setPortalLink(Portal)
-comment2.params=
-comment2.target=Portal\ getPortalLink()
-numComments=3
