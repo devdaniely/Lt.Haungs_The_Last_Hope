@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Levelset()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Levelset.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ endGame()
+comment2.params=time
+comment2.target=void\ increaseScore(int)
+comment3.params=timer
+comment3.target=void\ decreaseTime(int)
+comment4.params=
+comment4.target=void\ spawnRobots()
+numComments=5
